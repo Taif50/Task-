@@ -19,7 +19,6 @@
                     echo "<br> successfully submit";
                    }
                 ?>
-            </form>
-
+           
     </body>
 </html>
