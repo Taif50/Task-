@@ -1,1 +1,2 @@
-# Task-
+- a database 
+- using the get method for a sensor 
