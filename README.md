@@ -1,2 +1,2 @@
 - a database 
-- using the get method for a sensor 
+- using the get method for an integer sensor 
